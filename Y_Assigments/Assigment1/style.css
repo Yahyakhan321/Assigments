@@ -1,0 +1,85 @@
+/* index2.css */
+
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Navigation Bar Styles */
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+    padding: 0.5rem 1rem;
+}
+
+/* Sidebar Styles */
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+/* Cards Section Styles */
+#products-container {
+    margin-top: 1rem;
+}
+
+.card {
+    border: 1px solid #dee2e6;
+}
+
+.card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.card-text {
+    color: #6c757d;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Pagination Styles */
+.pagination {
+    justify-content: center;
+}
+
+.page-item {
+    display: inline-block;
+}
+
+.page-link {
+    color: #007bff;
+    border-color: #007bff;
+}
+
+.page-link:hover {
+    color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Footer Styles */
+.footer {
+    background-color: #f8f9fa;
+    padding: 1rem 0;
+}
+s
